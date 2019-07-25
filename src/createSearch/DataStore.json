@@ -1,0 +1,38 @@
+[
+  {
+    "KEY": 1,
+    "SONGNAME": "Tum Hi Ho",
+    "ARTIST": "Arjit Singh",
+    "LOCATION": "http/ashique/arjitsingh",
+    "ALBUM": "Ashique",
+    "DURATION": "3 min",
+    "TAGS": "SadSong"
+  },
+  {
+    "KEY": 2,
+    "SONGNAME": "Itni Si Baat hai",
+    "ARTIST": "Arjit Singh",
+    "LOCATION": "http/itniaaat/arjitsingh",
+    "ALBUM": "GameOn",
+    "DURATION": "3 min",
+    "TAGS": "LoveSong"
+  },
+  {
+    "KEY": 3,
+    "SONGNAME": "Tere Sang Yaara",
+    "ARTIST": "Arjit Singh",
+    "LOCATION": "http/itnist/arjitsingh",
+    "ALBUM": "GameOn",
+    "DURATION": "3 min",
+    "TAGS": "LoveSong"
+  },
+  {
+    "KEY": 4,
+    "SONGNAME": "Dekh Lena",
+    "ARTIST": "Arjit Singh",
+    "LOCATION": "http/itnisi/arjitsingh",
+    "ALBUM": "GameOn",
+    "DURATION": "3 min",
+    "TAGS": "LoveSong"
+  }
+]

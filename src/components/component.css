@@ -1,0 +1,116 @@
+.Navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 10vh;
+  background-color: #095e7a;
+  color: white;
+  overflow-x: hidden;
+}
+
+.Navbar .nav-links {
+  width: 30%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  list-style: none;
+}
+
+.Navbar .nav-links .Navlink {
+  color: white;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+}
+
+.FormCenter .Formfields .root .errorMsg {
+  margin-left: 100px;
+  color: red;
+}
+
+.FormCenter .Formfields .root .FormField__Input::-webkit-input-placeholder {
+  color: #616e7f;
+}
+
+.FormCenter .Formfields .root .FormField__Input:-ms-input-placeholder {
+  color: #616e7f;
+}
+
+.FormCenter .Formfields .root .FormField__Input::-ms-input-placeholder {
+  color: #616e7f;
+}
+
+.FormCenter .Formfields .root .FormField__Input::placeholder {
+  color: #616e7f;
+}
+
+.FormCenter .Formfields .root .button {
+  padding-top: 10px;
+}
+
+.FormCenter .displayresult {
+  font-size: 1.5em;
+  text-align: left;
+  margin-left: 44%;
+}
+
+.form-group .FormField__Label {
+  display: block;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  color: black;
+  text-align: left;
+  margin-left: 559px;
+}
+
+.jsondata {
+  display: inline-block;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+.Jsonresult .wrap {
+  margin-left: 900px;
+}
+
+.Jsonresult .movebutton {
+  text-align: left;
+  margin-left: 20px;
+  float: left;
+}
+
+.Jsonresult .movebutton .songsborder {
+  border: 1px solid black;
+  background-color: lightseagreen;
+}
+
+.Jsonresult .movebutton .songsborder .SongsAlignLeft {
+  margin-left: 10px;
+}
+
+.Jsonresult .displayresult {
+  font-size: 1.5em;
+  text-align: left;
+  margin-left: 33%;
+}
+
+.Navlink {
+  color: white;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+}
+
+.searchString {
+  text-align: left;
+}
+
+.searchString .SongsAlignRight {
+  margin-left: 700px;
+}
+/*# sourceMappingURL=component.css.map */
